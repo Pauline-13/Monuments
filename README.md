@@ -11,11 +11,15 @@ Vous venez d'entrer dans une agence web dont l'une des missions consiste à cré
 Le client vous met à disposition un jeu de données basique pour commencer le développement, contenant les informations pour 5 monuments.
 
 Vous devez créer un site qui permettra, en un coup d'oeil, de voir les monuments disponibles et d'accéder à des informations sur ces derniers en un clic.
+Les seuls informations nécessaires sont : la ville et le pays (dans ce cas, toujours la France) et une courte description du monument.
+
+Le client souhaiterait également afficher une carte de France avec un marqueur qui marquera l'emplacement du monument.
 
 ## Modalités pédagogiques
 
 Activité individuelle en mode collaboratif.
 Vous pouvez modifier l'`index.html`, le `style.css` et bien sûr le `script.js`.
+Le noir utilisé dans la maquette est déclaré en tant que custom property dans `style.css` (voir ressources)
 
 ### Etape 1 : Création de l'interface utilisateur
 
@@ -91,7 +95,6 @@ Pour éviter les requêtes trop nombreuses vous pourrez afficher tous les monume
 | ***Big Bonus***                        |                               |                           |
 | - Carte avec marqueurs via API         | <ul><li>- [ ] &nbsp;</li><ul> |                           |
 |                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
-|                                        |                               |                           |
 | ***Livrables***                        |                               |                           |
 | - Projet livré dans les délais         | <ul><li>- [ ] &nbsp;</li><ul> |                           |
 |                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
@@ -100,10 +103,15 @@ Pour éviter les requêtes trop nombreuses vous pourrez afficher tous les monume
 
 ## Ressources
 
-- [GitHub Pages](https://pages.github.com/)
-- [W3C](https://validator.w3.org/)
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [CSS - Custom Properties](https://developers.google.com/speed/pagespeed/insights/)
+- [CSS - Bonus - Not & hover](https://developer.mozilla.org/fr/docs/Web/CSS/--*)
 
-## Authors
+  Quelques bases si ce n'est pas déjà acquis :
+- [JS - Event Listeners](https://developer.mozilla.org/fr/docs/Web/API/EventTarget/addEventListener)
+- [JS - Changer le contenu d'une balise HTML](https://developer.mozilla.org/fr/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#apprentissage_actif_manipulations_basiques_du_dom)
+
+  Pour les informations concernant les monuments, à vous d'effectuer vos recherches (google / wikipedia / chatgpt...)
+
+## Auteurs
 
 * [Rémy Cottrez](https://github.com/RemyCTRZ)
