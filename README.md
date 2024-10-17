@@ -8,7 +8,7 @@ Afficher des informations sur des monuments lorsque l'utilisateur clique sur un 
 
 Vous venez d'entrer dans une agence web dont l'une des missions consiste à créer un site mettant en valeur les monuments emblématiques de France.
 
-Le client vous met à disposition un jeu de données basique pour commencer le développement, contenant les informations pour 5 monuments.
+Le client vous met à disposition un jeu de données basique pour commencer le développement, contenant les informations pour 5 monuments ainsi qu'une maquette à respecter.
 
 Vous devez créer un site qui permettra, en un coup d'oeil, de voir les monuments disponibles et d'accéder à des informations sur ces derniers en un clic.
 Les seuls informations nécessaires sont : la ville et le pays (dans ce cas, toujours la France) et une courte description du monument.
@@ -110,7 +110,8 @@ Quelques bases si ce n'est pas déjà acquis :
 - [JS - Event Listeners](https://developer.mozilla.org/fr/docs/Web/API/EventTarget/addEventListener)
 - [JS - Changer le contenu d'une balise HTML](https://developer.mozilla.org/fr/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#apprentissage_actif_manipulations_basiques_du_dom)
 
-Pour les informations concernant les monuments, à vous d'effectuer vos recherches (google / wikipedia / chatgpt...)
+Pour les informations concernant les monuments, à vous d'effectuer vos recherches (google / wikipedia / chatgpt...).
+Les maquettes sont dans le dossier `models`.
 
 ## Auteurs
 
