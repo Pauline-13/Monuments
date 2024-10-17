@@ -49,7 +49,7 @@ Comme ci-dessous :
 
 ### Big Bonus : Carte avec marqueur via API publique
 
-- Effectuez des recherches sur des sites qui proposent une API publique que vous pourriez consommer pour afficher une carte intéractive (comme openstreetmap) sur laquelle vous pourriez rajouter des marqueurs ou points marquant les différents monuments.
+- Effectuez des recherches sur des sites qui proposent une API publique que vous pourriez consommer pour afficher une carte interactive (comme openstreetmap) sur laquelle vous pourriez rajouter des marqueurs ou points marquant les différents monuments.
 Pour éviter les requêtes trop nombreuses vous pourrez afficher tous les monuments sur une seule carte qui sera toujours affichée.
 
 ### Deadline
@@ -76,7 +76,7 @@ Pour éviter les requêtes trop nombreuses vous pourrez afficher tous les monume
 | Critères de performance                |                               | Remarques du correcteur   |
 | ***Interface utilisateur***            |                               |                           |
 | - Respect de la maquette               | <ul><li>- [ ] &nbsp;</li><ul> |                           |
-| - Interface intéractive                | <ul><li>- [ ] &nbsp;</li><ul> |                           |
+| - Interface interactive                | <ul><li>- [ ] &nbsp;</li><ul> |                           |
 |                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
 | ***Fonctionnalités***                  |                               |                           |
 | - Boutons et clic sur images fonctionnels | <ul><li>- [ ] &nbsp;</li><ul> |                        |
