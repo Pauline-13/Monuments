@@ -94,7 +94,7 @@ Pour éviter les requêtes trop nombreuses vous pourrez afficher tous les monume
 |                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
 | ***Big Bonus***                        |                               |                           |
 | - Carte avec marqueurs via API         | <ul><li>- [ ] &nbsp;</li><ul> |                           |
-|                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
+|                                        |                               |
 | ***Livrables***                        |                               |                           |
 | - Projet livré dans les délais         | <ul><li>- [ ] &nbsp;</li><ul> |                           |
 |                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
