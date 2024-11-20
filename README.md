@@ -17,9 +17,9 @@ Le client souhaiterait également afficher une carte de France avec un marqueur 
 
 ## Modalités pédagogiques
 
-Activité individuelle en mode collaboratif.
-Vous pouvez modifier l'`index.html`, le `style.css` et bien sûr le `script.js`.
-Le noir utilisé dans la maquette est déclaré en tant que custom property dans `style.css` (voir ressources)
+- Activité individuelle en mode collaboratif.
+- Vous pouvez modifier l'`index.html`, le `style.css` et bien sûr le `script.js`.
+- La couleur noire utilisée dans la maquette est déclarée en tant que custom property dans `style.css` (voir ressources)
 
 ### Etape 1 : Création de l'interface utilisateur
 
@@ -94,12 +94,12 @@ Pour éviter les requêtes trop nombreuses vous pourrez afficher tous les monume
 |                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
 | ***Big Bonus***                        |                               |                           |
 | - Carte avec marqueurs via API         | <ul><li>- [ ] &nbsp;</li><ul> |                           |
-|                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
+|                                        |                               |
 | ***Livrables***                        |                               |                           |
 | - Projet livré dans les délais         | <ul><li>- [ ] &nbsp;</li><ul> |                           |
 |                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
 
-**Nombre d'étoiles obtenues** : ⭐⭐⭐⭐⭐⭐
+**Nombre d'étoiles obtenues** : ⭐⭐⭐⭐⭐
 
 ## Ressources
 
