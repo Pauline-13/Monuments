@@ -32,3 +32,11 @@ jobs:
             echo "Error: script.js is missing."
             exit 1
           fi
+
+      - name: Final message
+        run: |
+          if [ -f index.html ] && [ -f style.css ] && [ -f script.js ]; then
+            echo "Success: Both files are present."
+          else
+            echo "Warning: One or more files are missing."
+          fi
