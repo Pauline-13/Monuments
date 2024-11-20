@@ -62,7 +62,7 @@ Pour éviter les requêtes trop nombreuses vous pourrez afficher tous les monume
 
 ## Livrables
 
-- Un dépôt `GitHub`.
+- Le lien vers votre dépôt `GitHub` avec un dernier commit lorsque tout fonctionne "finished"
 - Le lien de votre site en ligne.
 
 ## Critères de performance
