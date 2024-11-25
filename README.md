@@ -88,7 +88,7 @@ Le client souhaiterait également afficher une carte de France avec un marqueur 
 - [JS - Event Listeners](https://developer.mozilla.org/fr/docs/Web/API/EventTarget/addEventListener)
 - [JS - Changer le contenu d'une balise HTML](https://developer.mozilla.org/fr/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#apprentissage_actif_manipulations_basiques_du_dom)
 
-Pour les informations concernant les monuments, à vous d'effectuer vos recherches (google / wikipedia / chatgpt...).
+Pour les informations concernant les monuments, à vous d'effectuer vos recherches (google / wikipedia / chatgpt...).<br>
 Les maquettes sont dans le dossier `models`.
 
 ## Auteurs
