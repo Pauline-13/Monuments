@@ -79,7 +79,7 @@ Le client souhaiterait également afficher une carte de France avec un marqueur 
 | - Projet livré dans les délais         | <ul><li>- [ ] &nbsp;</li><ul> |                           |
 |                                        | <ul><li>- [ ] ⭐</li><ul>     |                           |
 
-**Nombre d'étoiles obtenues** : ⭐⭐⭐⭐⭐
+**Nombre d'étoiles obtenues** : ⭐⭐⭐⭐
 
 
 ## Ressources
