@@ -7,7 +7,7 @@ Rendre dynamique une page web afin d'afficher des informations sur les monuments
 
 ## Contexte du projet
 
-Vous venez d'entrer dans une agence web dont l'une des missions consiste à créer un site mettant en valeur les monuments emblématiques de France.
+Vous venez d'entrer dans une agence web dont l'une des missions consiste à créer un site mettant en valeur des monuments emblématiques.
 
 Le client vous met à disposition une maquette à respecter.
 
