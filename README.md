@@ -9,7 +9,7 @@ Rendre dynamique une page web afin d'afficher des informations sur les monuments
 
 Vous venez d'entrer dans une agence web dont l'une des missions consiste à créer un site mettant en valeur les monuments emblématiques de France.
 
-Le client vous met à disposition un jeu de données basique pour commencer le développement, contenant les informations pour 5 monuments ainsi qu'une maquette à respecter.
+Le client vous met à disposition une maquette à respecter.
 
 Vous devez créer un site qui permettra, en un coup d'oeil, de voir les monuments disponibles et d'accéder à des informations sur ces derniers en un clic.
 Les seuls informations nécessaires sont : la ville et le pays (dans ce cas, toujours la France) et une courte description du monument.
