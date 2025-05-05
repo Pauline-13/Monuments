@@ -44,7 +44,7 @@ Le client souhaiterait également afficher une carte de France avec un marqueur 
 
 ## Modalités d'évaluation
 
-- Correction entre pairs à l'aide d'une grille d'évaluation.
+- Correction par le formateur.
 
 
 ## Livrables
