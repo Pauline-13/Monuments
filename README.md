@@ -54,6 +54,17 @@ Le client souhaiterait également afficher une carte de France avec un marqueur 
 
 ## Critères de performance
 
+- Respect de la maquette
+- Interface interactive
+- Boutons et clic sur images fonctionnels
+- Description correspondant au monument sélectionné
+- Transitions sur les informations
+- Organisation et lisibilité du code
+- Respect des bonnes pratiques HTML/CSS/JS
+- Commentaires dans le code
+- Filtre N/B sur les images lors de la sélection
+- Carte avec marqueurs
+- Projet livré dans les délais
 
 ## Ressources
 
