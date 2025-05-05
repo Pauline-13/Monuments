@@ -62,7 +62,6 @@ Le client souhaiterait également afficher une carte de France avec un marqueur 
 - Organisation et lisibilité du code
 - Respect des bonnes pratiques HTML/CSS/JS
 - Commentaires dans le code
-- Filtre N/B sur les images lors de la sélection
 - Carte avec marqueurs
 - Projet livré dans les délais
 
