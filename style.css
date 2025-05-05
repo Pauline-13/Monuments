@@ -69,19 +69,19 @@ a {
 
 /* -------------------------------- AJOUTS --------------------------------------- */
 header {
-    /* border: 1px solid black; */
-    margin: 40px 0px;
+  /* border: 1px solid black; */
+  margin: 40px 0px;
 }
 
 h1 {
-    font-size: 4rem;
-    text-align: center;
+  font-size: 4rem;
+  text-align: center;
 }
 
 #txt_header {
-    font-size: 1.5rem;
-    text-align: center;
-    margin: 80px 0 20px 0;
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 80px 0 20px 0;
 }
 
 #container_principal {
@@ -104,37 +104,50 @@ h1 {
 }
 
 #container_txt {
-    position: relative;
-    background-color: var(--black);
-    width: 100%;
-    height: 350px;
-    margin: 30px 0;
-    padding: 10px 30px;
+  position: relative;
+  background-color: var(--black);
+  width: 100%;
+  height: 350px;
+  margin: 30px 0;
+  padding: 10px 30px;
 }
 
 h2 {
-    color: var(--white);
-    font-size: 3.5rem;
+  color: var(--white);
+  font-size: 3.5rem;
 }
 
 h3 {
-    color: var(--white);
-    font-size: 2.2rem;
+  color: var(--white);
+  font-size: 2.2rem;
+  font-weight: bold;
 }
 
 #bold {
-    font-weight: bold;
+  font-weight: lighter;
 }
 
 #txt_monument {
-    border: 1px solid green;
-    color: var(--white);
-    width: 70%;
-    font-size: 1.2rem;
-    text-align: justify;
+  /* border: 1px solid green; */
+  color: var(--white);
+  width: 80%;
+  font-size: 1.2rem;
+  font-weight: lighter;
+  text-align: justify;
 }
 
+#img_carte {
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  top: 30px;
+  right: 30px;
+}
 
+#img_carte:hover {
+    scale: 1.2;
+    /* ajouter un effet au hover */
+}
 
 footer {
   /* border: 1px solid black; */
@@ -142,4 +155,3 @@ footer {
   justify-content: center;
   text-align: center;
 }
-
