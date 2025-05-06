@@ -109,7 +109,9 @@ h1 {
   width: 100%;
   height: 350px;
   margin: 30px 0;
-  padding: 10px 30px;
+  padding: 0px 30px 10px 30px;
+  border-radius: 0 15px;
+  display: none;
 }
 
 h2 {
@@ -130,7 +132,7 @@ h3 {
 #txt_monument {
   /* border: 1px solid green; */
   color: var(--white);
-  width: 80%;
+  width: 78%;
   font-size: 1.2rem;
   font-weight: lighter;
   text-align: justify;
@@ -140,12 +142,13 @@ h3 {
   position: absolute;
   height: 300px;
   width: 300px;
-  top: 30px;
-  right: 30px;
+  top: 25px;
+  right: 25px;
 }
 
 #img_carte:hover {
-    scale: 1.2;
+    scale: 1.17;
+    border-radius: 0 15px 0 0;
     /* ajouter un effet au hover */
 }
 
@@ -155,3 +158,9 @@ footer {
   justify-content: center;
   text-align: center;
 }
+
+.flou {
+  filter: blur(5px); /* Applique un flou */
+  pointer-events: none; /* Désactive l'interaction (clic) avec les éléments floutés */
+}
+
