@@ -69,7 +69,6 @@ a {
 
 /* -------------------------------- AJOUTS --------------------------------------- */
 header {
-  /* border: 1px solid black; */
   margin: 40px 0px;
 }
 
@@ -85,17 +84,19 @@ h1 {
 }
 
 #container_principal {
-  /* border: 1px solid green; */
   display: flex;
   justify-content: space-around;
 }
 
 .container_img_button {
-  /* border: 1px solid red; */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.image_monument {
+  object-fit: cover;
 }
 
 .btn_monument {
@@ -109,7 +110,7 @@ h1 {
   width: 100%;
   height: 350px;
   margin: 30px 0;
-  padding: 0px 30px 10px 30px;
+  padding: 10px 30px;
   border-radius: 0 15px;
   display: none;
 }
@@ -130,12 +131,12 @@ h3 {
 }
 
 #txt_monument {
-  /* border: 1px solid green; */
   color: var(--white);
   width: 78%;
   font-size: 1.2rem;
   font-weight: lighter;
   text-align: justify;
+  margin-top: 10px;
 }
 
 #img_carte {
@@ -153,7 +154,6 @@ h3 {
 }
 
 footer {
-  /* border: 1px solid black; */
   display: flex;
   justify-content: center;
   text-align: center;
