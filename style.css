@@ -52,10 +52,10 @@ h6 {
   overflow-wrap: break-word;
 }
 
-/* button {
+button {
     background-color: unset;
     border: unset;
-} */
+}
 
 a {
   text-decoration: unset;
@@ -68,6 +68,10 @@ a {
 }
 
 /* -------------------------------- AJOUTS --------------------------------------- */
+html {
+  scroll-behavior: smooth;
+}
+
 header {
   margin: 40px 0px;
 }
@@ -75,6 +79,12 @@ header {
 h1 {
   font-size: 4rem;
   text-align: center;
+}
+
+hr {
+  width: 70%;
+  margin: 20px auto;
+  box-shadow: 2px 2px 10px var(--black);
 }
 
 #txt_header {
@@ -95,13 +105,21 @@ h1 {
   align-items: center;
 }
 
-.image_monument {
+.img_monument {
   object-fit: cover;
+  cursor: pointer;
 }
 
 .btn_monument {
   width: 50%;
   margin-top: 10px;
+  cursor: pointer;
+  background-color: var(--black);
+  color: var(--white);
+  padding: 10px;
+  border-radius: 0 10px;
+  font-size: 1.2rem;
+  font-weight: lighter;
 }
 
 #container_txt {
@@ -163,4 +181,5 @@ footer {
   filter: blur(5px); /* Applique un flou */
   pointer-events: none; /* Désactive l'interaction (clic) avec les éléments floutés */
 }
+
 
