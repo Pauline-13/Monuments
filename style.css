@@ -72,6 +72,11 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  background-image: url(images/background.jpg);
+  background-size: cover;
+}
+
 header {
   margin: 40px 0px;
 }
@@ -79,18 +84,21 @@ header {
 h1 {
   font-size: 4rem;
   text-align: center;
+  color: var(--black);
 }
 
 hr {
+  background-color: var(--black);
   width: 70%;
   margin: 20px auto;
-  box-shadow: 2px 2px 10px var(--black);
+  /* box-shadow: 2px 2px 10px var(--black); */
 }
 
 #txt_header {
   font-size: 1.5rem;
   text-align: center;
   margin: 80px 0 20px 0;
+  color: var(--black);
 }
 
 #container_principal {
@@ -103,23 +111,35 @@ hr {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border-radius: 10px;
+  opacity: 0.8;
+}
+
+.container_img_button:hover {
+  scale: 1.1;
+  opacity: 1;
+  transition: 0.2s all ease-in-out;
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
 }
 
 .img_monument {
   object-fit: cover;
   cursor: pointer;
+  outline: 1px solid black;
+  border-radius: 10px 10px 0px 0px;
 }
 
 .btn_monument {
-  width: 50%;
-  margin-top: 10px;
+  width: 100%;
   cursor: pointer;
-  background-color: var(--black);
-  color: var(--white);
-  padding: 10px;
-  border-radius: 0 10px;
-  font-size: 1.2rem;
-  font-weight: lighter;
+  background-color: var(--white);
+  color: var(--black);
+  padding: 20px;
+  border-radius: 0 0 10px 10px;
+  font-size: 1.3rem;
+  outline: 1px solid black;
+  letter-spacing: 2;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
 }
 
 #container_txt {
@@ -131,6 +151,7 @@ hr {
   padding: 10px 30px;
   border-radius: 0 15px;
   display: none;
+  opacity: 0.9;
 }
 
 h2 {
@@ -163,19 +184,22 @@ h3 {
   width: 300px;
   top: 25px;
   right: 25px;
+  outline: 1px solid var(--white);
+  border-radius: 0 10px;
 }
 
 #img_carte:hover {
-    scale: 1.17;
-    border-radius: 0 15px 0 0;
-    /* ajouter un effet au hover */
+    scale: 1.16;
+    border-radius: 0 10px 0 10px;
+    outline: 1px solid var(--black);
+    transition: 0.2s all ease-in;
 }
 
-footer {
+/* footer {
   display: flex;
   justify-content: center;
   text-align: center;
-}
+} */
 
 .flou {
   filter: blur(5px); /* Applique un flou */
